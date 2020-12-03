@@ -1,1 +1,1 @@
-web: gunicorn eshopdjango-master.wsgi --log-file -
+web: gunicorn the-blu-ray-shop.wsgi --log-file -
